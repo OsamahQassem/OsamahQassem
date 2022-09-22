@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Web Devlopment
 - 👯 I’m looking to collaborate on New Project
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin](https://bit.ly/Linkedin-Osamah-Qassem) [Email Adress](ohm.qassem@gmail.com)
+- 📫 How to reach me: [Linkedin](https://bit.ly/Linkedin-Osamah-Qassem) 
+                      ohm.qassem@gmail.com
 
 
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
