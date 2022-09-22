@@ -4,20 +4,20 @@
 
 #### Passionate about Web development, Writing codes, and Solving problems
 
-🔭 I’m currently working on HYF
+- 🔭 I’m currently working on HYF bootcamp
 - 🌱 I’m currently learning Web Devlopment
 - 👯 I’m looking to collaborate on New Project
 - 💬 Ask me about Any thing
 - 📫 How to reach me: ...
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-JAVASCRIPT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-Reacts-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-NODEJA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-Expressjs-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-JAVA_SCRIPT-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Reacts-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-NODE_JA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Express_js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- ### Hi there 👋 -->
 
