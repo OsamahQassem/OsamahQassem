@@ -2,8 +2,8 @@
 
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<JAVA SCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<NODE JA>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<JAVASCRIPT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<NODEJA>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <!-- ### Hi there 👋 -->
 
