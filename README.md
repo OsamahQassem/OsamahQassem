@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on New Project
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://bit.ly/Linkedin-Osamah-Qassem) 
-                      ohm.qassem@gmail.com
+                      Email: ohm.qassem@gmail.com
 
 
 ![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
